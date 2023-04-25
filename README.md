@@ -75,7 +75,7 @@ As a prerequisite, you will need docker and docker-compose installed. Docker des
 To run the system inside a docker container, setup your .env file as per steps above and then run the following:
 
 ```
-docker-compose up
+docker compose up
 ```
 
 # Supported Models<a name="supported-models"></a>
